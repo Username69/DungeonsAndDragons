@@ -4,6 +4,8 @@
 #include "Explorateur.h"
 #include "Variables.h"
 
+//Test
+
 class Hero: public Combattant, public Explorateur{
 public:
 Hero(char * nom, char * classe , char * race);
