@@ -1,6 +1,8 @@
 #include "Hero.h"
 #include <string.h>
 
+//Coucou !
+
 Hero * hero_principal;
 
 Hero::Hero(char * nom,char * classe,char * race){
